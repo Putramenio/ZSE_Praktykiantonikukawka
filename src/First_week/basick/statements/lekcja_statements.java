@@ -1,28 +1,28 @@
-package First_week.basick.statements;
-
-import java.util.Scanner;
-
-public class lekcja_statements {
-
-
-    /*
-    postać instrukcji warunkowej IF:
-
-    if (warunek){
-        zrobCos1;
-        zrobCos2;
-        ...
-        zrobCosX;
-    }
-    else{
-        zrobCosInnego1;
-        zrobCosInnego2;
-        ...
-        zrob CosInnegoX;
-    }
-     */
-
-    public static void main(String[] args) {
+//package First_week.basick.statements;
+//
+//import java.util.Scanner;
+//
+//public class lekcja_statements {
+//
+//
+//    /*
+//    postać instrukcji warunkowej IF:
+//
+//    if (warunek){
+//        zrobCos1;
+//        zrobCos2;
+//        ...
+//        zrobCosX;
+//    }
+//    else{
+//        zrobCosInnego1;
+//        zrobCosInnego2;
+//        ...
+//        zrob CosInnegoX;
+//    }
+//     */
+//
+//    public static void main(String[] args) {
 
 //        boolean stan = true;
 //
@@ -128,25 +128,25 @@ public class lekcja_statements {
 //                System.out.println("Nie wybrano poprawnej opcji.");
 //                break;
 //        }
-        System.out.println("Podaj swój wybór (A, B): ");
-        char z= skaner.next(.charAt(0);
-
-        switch (z){
-            case "1":
-                System.out.println("Przypadek pierwszy.");
-                break;
-            case "2":
-                System.out.println("Przypadek drugi.");
-                break;
-            case "A":
-                System.out.println("Przypadek A.");
-                break;
-            case "B":
-                System.out.println("Przypadek B.");
-                break;
-            default:
-                System.out.println("Nie wybrano poprawnej opcji.");
-                break;
-        }
-    }
-}
+//        System.out.println("Podaj swój wybór (A, B): ");
+//        char z= skaner.next(.charAt(0);
+//
+//        switch (z){
+//            case "1":
+//                System.out.println("Przypadek pierwszy.");
+//                break;
+//            case "2":
+//                System.out.println("Przypadek drugi.");
+//                break;
+//            case "A":
+//                System.out.println("Przypadek A.");
+//                break;
+//            case "B":
+//                System.out.println("Przypadek B.");
+//                break;
+//            default:
+//                System.out.println("Nie wybrano poprawnej opcji.");
+//                break;
+//        }
+//    }
+//}
